@@ -1,7 +1,7 @@
-##Password Vault Application
+Password Vault Application
 This Java project is a simple password vault application that allows users to store and retrieve passwords for various applications. The application provides a graphical user interface (GUI) using Swing to interact with the user.
 
-##Features
+Features
 Add a new password: Users can add a new password entry to the vault by providing the application name, username, and password.
 Retrieve an old password: Users can retrieve previously saved passwords from the vault and view them in a table format.
 Password protection: The vault is password-protected, and users need to provide the correct password to access its functionalities.
@@ -20,13 +20,13 @@ To quit the application, enter 3.
 Upon exiting the application, any new passwords added will be saved to a file named help.csv.
 Note: Make sure to have the required permissions to read and write files in the project directory.
 
-##Contributing
+Contributing
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please submit them through the issue tracker or fork the repository and create a pull request with your changes.
 
-##License
+License
 This project is licensed under the MIT License. Feel free to use and modify the code according to your needs.
 
-##Acknowledgments
+Acknowledgments
 This project was developed as a simple demonstration of Java programming and GUI development using Swing. Special thanks to the Java community for providing the necessary tools and resources.
 
 If you have any questions or need further assistance, please don't hesitate to reach out.
